@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# venv-mlops
+venv_mlops/
+
 # C extensions
 *.so
 
